@@ -21,6 +21,8 @@ Is it beautiful? No. Is it useful? Surprisingly, sometimes. Is it hilarious to s
 ---
 ![Ingame Example](https://cdn.modrinth.com/data/cached_images/eb0c21b50d08947d7053b376aa8bef103e6e963c.png)
 ---
+Download at: [https://modrinth.com/resourcepack/minecraft-utilitarian](https://modrinth.com/resourcepack/minecraft-utilitarian)
+---
 
 ## Could actually be useful for...
 
